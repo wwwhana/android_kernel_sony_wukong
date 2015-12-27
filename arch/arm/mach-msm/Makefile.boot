@@ -17,6 +17,7 @@
 	dtb-$(CONFIG_MACH_SONY_FLAMINGO)+= msm8926-yukon_flamingo-8926ss_ap.dtb
         dtb-$(CONFIG_MACH_SONY_TIANCHI) += msm8226-yukon_tianchi_dsds.dtb
 	dtb-$(CONFIG_MACH_SONY_TIANCHI) += msm8926-yukon_tianchi.dtb
+	dtb-$(CONFIG_MACH_SONY_TIANCHI) += msm8926-yukon_wukong.dtb
 	dtb-$(CONFIG_MACH_SONY_SEAGULL) += msm8926-yukon_seagull-720p-mtp.dtb
 
 # FSM9900
