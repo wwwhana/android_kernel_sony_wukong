@@ -635,6 +635,7 @@ struct mdp_overlay {
 	uint32_t id;
 	uint32_t user_data[6];
 	uint32_t bg_color;
+	uint8_t priority;
 	uint8_t horz_deci;
 	uint8_t vert_deci;
 	struct mdp_overlay_pp_params overlay_pp_cfg;
